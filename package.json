@@ -4,6 +4,7 @@
   "description": "some test for socket.io",
   "main": "app.js",
   "scripts": {
+    "start": "node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Ali Shafiee <alshf89@gmail.com>",
