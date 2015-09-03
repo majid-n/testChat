@@ -4,9 +4,21 @@
   "description": "some test for socket.io",
   "main": "app.js",
   "scripts": {
-    "start": "node app.js",
+  	"start": "node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "engines": {
+    "node": "0.12.7"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/heroku/node-js-getting-started"
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "express"
+  ],
   "author": "Ali Shafiee <alshf89@gmail.com>",
   "license": "MIT",
   "dependencies": {
